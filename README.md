@@ -16,29 +16,4 @@ As is obvious in the above process, there is a significant investment which FinM
 
 Finman has approached you and asked you to  to analyse and observe the overall past recruitment data to help your client derive meaningful insights.
 
-# Data Dictionary
 
-Variable | Definition
-ID | Unique Application ID
-Office_PIN | PINCODE of Fintro's Offices
-Application_Receipt_Date | Date of Application
-Applicant_City_PIN | PINCODE of Applicant Address
-Applicant_Gender | Applicant's Gender
-Applicant_BirthDate | Applicant's Birthdate
-Applicant_Marital_Status | Applicant's Marital Status
-Applicant_Occupation | Applicant's Occupation
-Applicant_Qualification | Applicant's Educational Qualification
-Manager_DOJ | Manager's Date of Joining
-Manager_Joining_Designation | Manager's Joining Designation in Fintro
-Manager_Current_Designation | Manager's Designation at the time of application sourcing
-Manager_Grade | Manager's Grade in Fintro
-Manager_Status | Current Employment Status (Probation / Confirmation)
-Manager_Gender | Manager's Gender
-Manager_DoB | Manager's Birthdate
-Manager_Num_Application | No. of Applications sourced in last 3 months by the Manager
-Manager_Num_Coded | No. of agents recruited by the manager in last 3 months
-Manager_Business | Amount of business sourced by the manager in last 3 months
-Manager_Num_Products | Number of products sold by the manager in last 3 months
-Manager_Business2 | Amount of business sourced by the manager in last 3 months excluding business from their Category A advisor
-Manager_Num_Products2 | Number of products sold by the manager in last 3 months excluding business from their Category A advisor
-Business_Sourced(Target) | Business sourced by applicant within 3 months [1/0] of recruitment
